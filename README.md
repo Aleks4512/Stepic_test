@@ -1,2 +1,3 @@
 # Stepic_test
-from home work, python lessons
+from homework, python lessons
+use feature from git
